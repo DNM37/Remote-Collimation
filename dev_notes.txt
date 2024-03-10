@@ -1,0 +1,13 @@
+Today (december 19th)
+-modified the code for the arduino board to allow multiple servos to be connected to pins 9 10 and 11
+-created a new UI, and segmented each of the buttons to control an individual pin
+
+TODO: 
+-buy some more SG90 servos and connect them to test the other functions
+-repair 3d printer to begin prototyping to create a housing for the servos
+-remember to change servo speed back to 1 in final product :|
+
+
+
+
+
